@@ -1,3 +1,8 @@
+# Vine Linux Theme gor Hugo based on Universal Theme
+
+See [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) for the original source. 
+This is forked version for Vine Linux.
+
 # Universal Theme for Hugo
 
 [![Code Climate](https://codeclimate.com/github/devcows/hugo-universal-theme/badges/gpa.svg)](https://codeclimate.com/github/devcows/hugo-universal-theme)

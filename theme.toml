@@ -1,15 +1,15 @@
-name = "Universal"
+name = "VineLinux"
 license = "MIT"
 licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
-description = "A port of the Universal theme"
-homepage = "//github.com/devcows/hugo-universal-theme"
+description = "Vine Linux Theme based on a port of the Universal theme"
+homepage = "//github.com/daisukesuzuki/hugo-vinelinux"
 tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
 features = ["blog", "themes", "disqus", "minimal", "responsive"]
 min_version = 0.15
 
 [author]
-    name = "adrianmo"
-    homepage = "//github.com/adrianmo"
+    name = "daisukesuzuki"
+    homepage = "//github.com/daisukesuzuki"
 
 # If Porting existing theme
 [original]
