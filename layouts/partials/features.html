@@ -3,6 +3,9 @@
 {{ if gt (len .Site.Data.features) 0 }}
 <section class="bar background-white">
     <div class="container">
+        <div class="heading text-center">
+            <h2>{{ .Site.Params.features.title }}</h2>
+        </div>
         {{ $elements := default 3 .Site.Params.features.cols }}
         {{ $features := sort .Site.Data.features "weight" }}
 
